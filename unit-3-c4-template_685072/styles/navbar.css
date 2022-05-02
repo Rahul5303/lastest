@@ -1,0 +1,27 @@
+#navbar{
+    width: 80%;
+    margin:auto;
+}
+#search_input{
+    width: 100%;
+    height: 35px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding: 5px;
+    font-size: large;
+}
+#sidebar{
+    display:grid;
+    justify-content: space-between;
+}
+
+#sidebar h3{
+    color: aqua;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    
+
+
+}
